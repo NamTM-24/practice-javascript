@@ -4,7 +4,7 @@ Profile [here](https://exercism.org/profiles/NamTM-24)
 
 ## Javascript
 
-Progress 29/140
+Progress 30/140
 
 | STT | Exercise                           | Language   | Status         | Solutions                                                                                                          |
 | --- | ---------------------------------- | ---------- | -------------- | ------------------------------------------------------------------------------------------------------------------ |
