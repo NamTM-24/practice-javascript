@@ -33,27 +33,27 @@ Progress 30/140
 | 24  | Custom Signs                       | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/custom-signs/solutions/NamTM-24)                       |
 | 25  | Windowing System                   | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/windowing-system/solutions/NamTM-24)                   |
 | 26  | Regular Chatbot                    | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/regular-chatbot/solutions/NamTM-24)                    |
-| 27  | Two Fer                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/two-fer/solutions/NamTM-24)                            |
-| 28  | Resistor Color                     | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/resistor-color/solutions/NamTM-24)                     |
-| 29  | Resistor Color Duo                 | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/resistor-color-duo/solutions/NamTM-24)                 |
-| 30  | Gigasecond                         | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/gigasecond/solutions/NamTM-24)                         |
-| 31  | RNA Transcription                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/rna-transcription/solutions/NamTM-24)                  |
-| 32  | Space Age                          | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/space-age/solutions/NamTM-24)                          |
-| 33  | Pangram                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/pangram/solutions/NamTM-24)                            |
-| 34  | Matrix                             | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/matrix/solutions/NamTM-24)                             |
-| 35  | Leap                               | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/leap/solutions/NamTM-24)                               |
-| 36  | Reverse String                     | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/reverse-string/solutions/NamTM-24)                     |
-| 37  | Collatz Conjecture                 | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/collatz-conjecture/solutions/NamTM-24)                 |
-| 38  | Triangle                           | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/triangle/solutions/NamTM-24)                           |
-| 39  | ETL                                | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/etl/solutions/NamTM-24)                                |
-| 40  | Hamming                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/hamming/solutions/NamTM-24)                            |
-| 41  | Raindrops                          | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/raindrops/solutions/NamTM-24)                          |
-| 42  | Bank Account                       | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/bank-account/solutions/NamTM-24)                       |
-| 43  | Difference of Squares              | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/difference-of-squares/solutions/NamTM-24)              |
-| 44  | Perfect Numbers                    | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/perfect-numbers/solutions/NamTM-24)                    |
-| 45  | Anagram                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/anagram/solutions/NamTM-24)                            |
-| 46  | Acronym                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/acronym/solutions/NamTM-24)                            |
-| 47  | High Scores                        | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/high-scores/solutions/NamTM-24)                        |
+| 27  | Two Fer                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/two-fer/solutions/NamTM-24)                            |
+| 28  | Resistor Color                     | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/resistor-color/solutions/NamTM-24)                     |
+| 29  | Resistor Color Duo                 | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/resistor-color-duo/solutions/NamTM-24)                 |
+| 30  | Gigasecond                         | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/gigasecond/solutions/NamTM-24)                         |
+| 31  | RNA Transcription                  | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/rna-transcription/solutions/NamTM-24)                  |
+| 32  | Space Age                          | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/space-age/solutions/NamTM-24)                          |
+| 33  | Pangram                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/pangram/solutions/NamTM-24)                            |
+| 34  | Matrix                             | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/matrix/solutions/NamTM-24)                             |
+| 35  | Leap                               | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/leap/solutions/NamTM-24)                               |
+| 36  | Reverse String                     | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/reverse-string/solutions/NamTM-24)                     |
+| 37  | Collatz Conjecture                 | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/collatz-conjecture/solutions/NamTM-24)                 |
+| 38  | Triangle                           | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/triangle/solutions/NamTM-24)                           |
+| 39  | ETL                                | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/etl/solutions/NamTM-24)                                |
+| 40  | Hamming                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/hamming/solutions/NamTM-24)                            |
+| 41  | Raindrops                          | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/raindrops/solutions/NamTM-24)                          |
+| 42  | Bank Account                       | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/bank-account/solutions/NamTM-24)                       |
+| 43  | Difference of Squares              | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/difference-of-squares/solutions/NamTM-24)              |
+| 44  | Perfect Numbers                    | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/perfect-numbers/solutions/NamTM-24)                    |
+| 45  | Anagram                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/anagram/solutions/NamTM-24)                            |
+| 46  | Acronym                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/acronym/solutions/NamTM-24)                            |
+| 47  | High Scores                        | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/high-scores/solutions/NamTM-24)                        |
 | 48  | Isogram                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/isogram/solutions/NamTM-24)                            |
 | 49  | Matching Brackets                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/matching-brackets/solutions/NamTM-24)                  |
 | 50  | Phone Number                       | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/phone-number/solutions/NamTM-24)                       |
