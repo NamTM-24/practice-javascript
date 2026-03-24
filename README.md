@@ -160,7 +160,5 @@ Progress 61/140
 Practice Functional & Reactive Programming at **[reactivex.io/learnrx](https://reactivex.io/learnrx/)** — an interactive exercise series for mastering `map`, `filter`, `reduce`, `zip`, and `concatMap` on Arrays and Observables.
 
 - 📦 **Working with Arrays** — Ex 1–27 · Folder [`LearnRx-JS/Array/`](LearnRx-JS/Array/)
-- 🔭 **Working with Observables** — Ex 28–30 · Folder [`LearnRx-JS/Observable/`](LearnRx-JS/Observable/)
-- 🤝 **Working with Promises** · Folder [`LearnRx-JS/Promise/`](LearnRx-JS/Promise/)
 
 Progress **30 / 30** exercises ✅
