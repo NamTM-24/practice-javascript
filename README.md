@@ -4,11 +4,16 @@ Profile [here](https://exercism.org/profiles/NamTM-24)
 
 ## Javascript
 
-Progress 30/140
+Progress 61/140
 
 | STT | Exercise                           | Language   | Status         | Solutions                                                                                                          |
 | --- | ---------------------------------- | ---------- | -------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 1   | Hello World                        | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/hello-world/solutions/NamTM-24)                        |
+| 1a  | Line Up                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/elyses-enchantments/solutions/NamTM-24)                |
+| 1b  | Train Driver                       | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/making-the-grade/solutions/NamTM-24)                   |
+| 1c  | Appointment Time                   | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/js-promises/solutions/NamTM-24)                        |
+| 1d  | Captain's Log                      | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/captains-log/solutions/NamTM-24)                       |
+| 1e  | Recycling Robot                    | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/recycling-robot/solutions/NamTM-24)                    |
 | 2   | Lucian's Luscious Lasagna          | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/lasagna/solutions/NamTM-24)                            |
 | 3   | Annalyn's Infiltration             | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/annalyns-infiltration/solutions/NamTM-24)              |
 | 4   | Freelancer Rates                   | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/freelancer-rates/solutions/NamTM-24)                   |
@@ -54,24 +59,24 @@ Progress 30/140
 | 45  | Anagram                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/anagram/solutions/NamTM-24)                            |
 | 46  | Acronym                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/acronym/solutions/NamTM-24)                            |
 | 47  | High Scores                        | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/high-scores/solutions/NamTM-24)                        |
-| 48  | Isogram                            | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/isogram/solutions/NamTM-24)                            |
-| 49  | Matching Brackets                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/matching-brackets/solutions/NamTM-24)                  |
-| 50  | Phone Number                       | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/phone-number/solutions/NamTM-24)                       |
+| 48  | Isogram                            | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/isogram/solutions/NamTM-24)                            |
+| 49  | Matching Brackets                  | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/matching-brackets/solutions/NamTM-24)                  |
+| 50  | Phone Number                       | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/phone-number/solutions/NamTM-24)                       |
 | 51  | Scale Generator                    | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/scale-generator/solutions/NamTM-24)                    |
-| 52  | Series                             | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/series/solutions/NamTM-24)                             |
+| 52  | Series                             | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/series/solutions/NamTM-24)                             |
 | 53  | Transpose                          | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/transpose/solutions/NamTM-24)                          |
 | 54  | Rotational Cipher                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/rotational-cipher/solutions/NamTM-24)                  |
-| 55  | Diffie-Hellman                     | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/diffie-hellman/solutions/NamTM-24)                     |
-| 56  | Protein Translation                | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/protein-translation/solutions/NamTM-24)                |
-| 57  | Armstrong Numbers                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/armstrong-numbers/solutions/NamTM-24)                  |
+| 55  | Diffie-Hellman                     | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/diffie-hellman/solutions/NamTM-24)                     |
+| 56  | Protein Translation                | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/protein-translation/solutions/NamTM-24)                |
+| 57  | Armstrong Numbers                  | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/armstrong-numbers/solutions/NamTM-24)                  |
 | 58  | D&D Character                      | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/dnd-character/solutions/NamTM-24)                      |
 | 59  | Run-Length Encoding                | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/run-length-encoding/solutions/NamTM-24)                |
 | 60  | Darts                              | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/darts/solutions/NamTM-24)                              |
 | 61  | Roman Numerals                     | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/roman-numerals/solutions/NamTM-24)                     |
 | 62  | Tournament                         | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/tournament/solutions/NamTM-24)                         |
 | 63  | Rail Fence Cipher                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/rail-fence-cipher/solutions/NamTM-24)                  |
-| 64  | Bob                                | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/bob/solutions/NamTM-24)                                |
-| 65  | Book Store                         | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/book-store/solutions/NamTM-24)                         |
+| 64  | Bob                                | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/bob/solutions/NamTM-24)                                |
+| 65  | Book Store                         | JavaScript | ✅ Completed   | [Solution](https://exercism.org/tracks/javascript/exercises/book-store/solutions/NamTM-24)                         |
 | 66  | Pascal's Triangle                  | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/pascals-triangle/solutions/NamTM-24)                   |
 | 67  | Linked List                        | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/linked-list/solutions/NamTM-24)                        |
 | 68  | Grade School                       | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/grade-school/solutions/NamTM-24)                       |
@@ -147,3 +152,15 @@ Progress 30/140
 | 138 | Queen Attack                       | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/queen-attack/solutions/NamTM-24)                       |
 | 139 | React                              | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/react/solutions/NamTM-24)                              |
 | 140 | Zipper                             | JavaScript | 🚧 In Progress | [Solution](https://exercism.org/tracks/javascript/exercises/zipper/solutions/NamTM-24)                             |
+
+---
+
+## LearnRx-JS — Functional Programming in JavaScript
+
+Practice Functional & Reactive Programming at **[reactivex.io/learnrx](https://reactivex.io/learnrx/)** — an interactive exercise series for mastering `map`, `filter`, `reduce`, `zip`, and `concatMap` on Arrays and Observables.
+
+- 📦 **Working with Arrays** — Ex 1–27 · Folder [`LearnRx-JS/Array/`](LearnRx-JS/Array/)
+- 🔭 **Working with Observables** — Ex 28–30 · Folder [`LearnRx-JS/Observable/`](LearnRx-JS/Observable/)
+- 🤝 **Working with Promises** · Folder [`LearnRx-JS/Promise/`](LearnRx-JS/Promise/)
+
+Progress **30 / 30** exercises ✅

@@ -4,15 +4,30 @@
 //
 
 export class Matrix {
-  constructor() {
-    throw new Error("Remove this line and implement the function");
+  constructor(matrix) {
+    this.matrix = matrix;
   }
 
   get rows() {
-    throw new Error("Remove this line and implement the function");
+    let rows = this.matrix;
+    rows = rows.split("\n");
+    const mappedResult = rows.map((row) => {
+      const splitResult = row.split(" ");
+      return splitResult.map((number) => {
+        return Number(number);
+      });
+    });
+    return mappedResult;
   }
 
   get columns() {
-    throw new Error("Remove this line and implement the function");
+    const columns = [];
+
+    for (let i = 0; i <= this.rows.length; i++) {
+      columns[i] = this.rows.map((row) => {
+        return row[i];
+      });
+    }
+    return columns;
   }
 }

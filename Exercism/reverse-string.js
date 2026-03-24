@@ -1,0 +1,11 @@
+//
+// This is only a SKELETON file for the 'Reverse String' exercise. It's been provided as a
+// convenience to get you started writing code faster.
+//
+
+export const reverseString = (str) => {
+  const res = str.split("").reverse().join("");
+  return res;
+};
+
+reverseString("abcxyz 123");
